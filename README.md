@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 Hey, I'm Sami Alvi – aka developedbysami 🚀<br><br>🚀 About Me<br><br>💻 Full-Stack Developer | React • Next.js • Node.js • MongoDB<br>🔐 Building secure authentication systems & scalable architectures<br>🧠 Learning DSA & system design<br>🚀 Focused on performance, clean code, and real-world problem solving
+
+# 👋 Hey, I'm Sami Alvi – aka developedbysami 🚀<br><br>💫 About Me<br><br>💻 Full-Stack Developer | React • Next.js • Node.js • MongoDB<br>🔐 Building secure authentication systems & scalable architectures<br>🧠 Learning DSA & system design<br>🚀 Focused on performance, clean code, and real-world problem solving
 
 
 ## 🌐 Socials:
